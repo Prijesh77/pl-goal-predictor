@@ -199,10 +199,7 @@ pl-goal-predictor/
 
 ## 👤 Author
 
-Built by **[Your Name]** — [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+Built by Prijesh Shrestha
 
 ---
 
-## 📄 License
-
-MIT License — free to use and modify.
